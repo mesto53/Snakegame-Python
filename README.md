@@ -1,0 +1,3 @@
+# Snakegame
+
+python main.py
